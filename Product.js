@@ -1,5 +1,5 @@
 class Product{
-  constructor (name, price){
+  export constructor (name, price){
     this.name = name
     this.price = price
   }
